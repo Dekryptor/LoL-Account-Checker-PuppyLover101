@@ -35,7 +35,7 @@ username:password
 
 username:password:region
 
-Then, click on **Start** to start checking. Your accounts will start appearing in the Dashboard, and if they don't, click on the Accounts window (Where you imported the accounts from) and look at the state of the account. You can also stop whenever you want, and then click **Start** again if you wanna resume!
+Then, click on **Start** to start checking. Your accounts will start appearing in the Dashboard, and if they don't, click on the Accounts window (Where you imported the accounts from) and look at the state of the account. You can also stop whenever you want, and then click **Start** again if you wanna resume !
  
 You can also import and export checked accounts that you want to see later.
 
